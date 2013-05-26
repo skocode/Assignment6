@@ -1,0 +1,24 @@
+﻿body {
+    width:90%;
+    margin:auto;
+    padding:20px;
+    -webkit-box-shadow: #B3B3B3 10px 10px 10px;
+    -moz-box-shadow: #B3B3B3 10px 10px 10px; 
+    box-shadow: #B3B3B3 10px 10px 10px;
+    border-left: 10px double #666666;
+}
+
+h1, h2 {
+    color: #0000BF;
+    font-family: Elephant;
+}
+
+h1, h3 {
+    text-align:center;
+}
+
+h1 {
+    padding-bottom:15px;
+    border-bottom: 7px double #666666;
+}
+
